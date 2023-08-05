@@ -30,6 +30,8 @@ secrets.json
 /build/
 /target/
 /venv/
+.env
+.gitignore
 
 # Ignore user-specific settings files
 .settings/
