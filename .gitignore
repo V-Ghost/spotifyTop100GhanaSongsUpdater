@@ -29,6 +29,7 @@ secrets.json
 /dist/
 /build/
 /target/
+/venv/
 
 # Ignore user-specific settings files
 .settings/
